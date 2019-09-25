@@ -1,5 +1,5 @@
 # Author: Vinit Patankar
-# Date: Wednesday September 25 4:30 pm
+# Date: Wednesday September 25 4:50 pm
 # Program to calculate x % 3 using Finite Automata, where x is given by the user as a binary string
 
 def run_fsm(input_string):
